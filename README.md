@@ -23,9 +23,13 @@
 ![A0](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/01_A0.png)  
 ![IDEF0 A0](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/02_A0.png)  
 Декомпозиция автоматизируемых блоков до уровня, прямо сопоставляемого с программными модулями
+Представление блока A1 в IDEF0.  
 ![A1](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/03_A1.png)  
+Представление блока A2 в DFD.  
 ![A2](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/04_A2.png)  
+Представление блока A3 в DFD.  
 ![A3](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/05_A3.png)  
+Представление блока A4 в IDEF0.  
 ![A4](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/06_A4.png)  
 Открытие проекта в веб-браузере, получение и сохранение модели в развернутом виде  
 Декомпозиция всех автоматизируемых блоков в DFD  
