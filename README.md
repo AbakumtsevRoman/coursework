@@ -27,7 +27,7 @@
 ![A1](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/03_A1.png)  
 Представление блока A2 в DFD. Заполнение таблицы данными в Excel.  
 ![A2](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/04_A2.png)  
-Представление блока A3 в DFD. Работа в создоваемой программе.  
+Представление блока A3 в DFD. Работа в создаваемой программе.  
 ![A3](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/05_A3.png)  
 Представление блока A4 в IDEF0.  
 ![A4](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/06_A4.png)  
