@@ -22,7 +22,11 @@
 Создание контекстной диаграммы и диаграммы уровня A0 c 3-4 блоками  
 ![A0](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/01_A0.png)  
 ![IDEF0 A0](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/02_A0.png)  
-Декомпозиция автоматизируемых блоков до уровня, прямо сопоставляемого с программными модулями  
+Декомпозиция автоматизируемых блоков до уровня, прямо сопоставляемого с программными модулями
+![A1](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/03_A1.png)  
+![A2](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/04_A2.png)  
+![A3](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/05_A3.png)  
+![A4](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/06_A4.png)  
 Открытие проекта в веб-браузере, получение и сохранение модели в развернутом виде  
 Декомпозиция всех автоматизируемых блоков в DFD  
 Определение типа каждого блока в DFD (экранная форма, печатная форма, модуль обработки)  
