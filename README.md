@@ -25,12 +25,14 @@
 Декомпозиция автоматизируемых блоков до уровня, прямо сопоставляемого с программными модулями. Декомпозиция всех автоматизируемых блоков в DFD:  
 * Представление блока A1 в IDEF0.  
 ![A1](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/03_A1.png)  
-* Представление блока A2 в DFD. Заполнение таблицы данными в Excel.  
+* Представление блока A2 в IDEF0.  
 ![A2](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/04_A2.png)  
-* Представление блока A3 в DFD. Работа в создаваемой программе.  
-![A3](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/05_A3.png)  
+* Представление блока A22 в DFD.  
+![A22](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/05_A22.png)  
+* Представление блока A3 в DFD.  
+![A3](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/06_A3.png)  
 * Представление блока A4 в IDEF0.  
-![A4](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/06_A4.png)    
+![A4](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/07_A4.png)    
 Определение типа каждого блока в DFD (экранная форма, печатная форма, модуль обработки)  
 Определение типа каждого хранилища в DFD (файл, таблица БД, структура в памяти, внешний сервис)  
 Открытие проекта в веб-браузере, получение и сохранение модели в развернутом виде  
