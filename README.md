@@ -18,8 +18,8 @@
   
 ### Разработка диаграмм в RAMUS  
 Создание контекстной диаграммы и диаграммы уровня A0 "Визуализация данных в лабораторной работе" c 4 блоками:  
-![A0](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/01_A0.png)  
-![IDEF0 A0](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/02_A0.png)  
+ ![A0](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/01_A0.png)  
+ ![IDEF0 A0](https://github.com/AbakumtsevRoman/coursework/blob/master/Скрины%20программы/02_A0.png)  
   
 Декомпозиция автоматизируемых блоков до уровня, прямо сопоставляемого с программными модулями.  
 * Представление блока A1 "Определить требования".  
