@@ -33,14 +33,14 @@
   
 ### Диаграммы UML курсового проекта  
 * Завершение идентификации всех потоков  
-Построенная ERD (диаграмма классов без атрибутов) для [всех потоков]()    
-![Потоки]()
+Построенная ERD (диаграмма классов без атрибутов) для [всех потоков](https://github.com/AbakumtsevRoman/coursework/blob/master/ERD/потоки.txt)    
+![Потоки](https://github.com/AbakumtsevRoman/coursework/blob/master/ERD/потоки.png)
 * Завершение идентификации всех ролей  
-Построенная ERD (диаграмма классов без атрибутов) для [всех ролей]()  
-![Роли]()
+Построенная ERD (диаграмма классов без атрибутов) для [всех ролей](https://github.com/AbakumtsevRoman/coursework/blob/master/ERD/роли.txt)  
+![Роли](https://github.com/AbakumtsevRoman/coursework/blob/master/ERD/роли.png)
 * Завершение идентификации всех модулей  
-Построение ERD (диаграмма классов без атрибутов) для [всех модулей]()  
-![Модули]()
+Построение ERD (диаграмма классов без атрибутов) для [всех модулей](https://github.com/AbakumtsevRoman/coursework/blob/master/ERD/модули.txt)  
+![Модули](https://github.com/AbakumtsevRoman/coursework/blob/master/ERD/модули.png)
   
 ### Расчеты связанные с проектируемой модели
 * Определение числовых показателей для цели потенциального проекта автоматизации  
