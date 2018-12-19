@@ -42,7 +42,7 @@
 Построение ERD (диаграмма классов без атрибутов) для [всех модулей](https://github.com/AbakumtsevRoman/coursework/blob/master/ERD/модули.txt)  
 ![Модули](https://github.com/AbakumtsevRoman/coursework/blob/master/ERD/модули.png)
 Диаграмма последовательностей  
-![Последовательность]()  
+![Последовательность](https://github.com/AbakumtsevRoman/coursework/blob/master/ERD/последовательность.PNG)  
 Данная диаграмма последовательностей показывает работу создаваеммой программы.
   
 ### Расчеты связанные с проектируемой системой   
